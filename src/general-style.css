@@ -1,0 +1,22 @@
+.mainPage {
+  background: linear-gradient(
+    #BB33AA,
+    #0099DD
+  );
+}
+.mainPage-img {
+  background-image: url("./assets/images/other-images/holi-1.png") !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.mainPage-bis {
+  background-image: linear-gradient(
+      rgba(107, 107, 250, 0.5),
+      rgba(182, 255, 0, 0.5)
+    ),
+    url("./assets/images/other-images/holi-1.png") !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
